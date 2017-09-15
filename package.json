@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-whq",
+  "version": "1.0.0",
+  "description": "Shareable stylelint config from WHQ",
+  "main": "index.js",
+  "dependencies": {
+    "eslint-plugin-compat": "^1.0.4",
+    "babel-eslint": "^7.2.3",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-node": "^4.2.2",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  },
+  "peerDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://worldhqinc@github.com/worldhqinc/eslint-config-whq.git"
+  },
+  "author": "WHQ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldhqinc/eslint-config-whq/issues"
+  },
+  "homepage": "https://github.com/worldhqinc/eslint-config-whq#readme"
+}
