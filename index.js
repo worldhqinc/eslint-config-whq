@@ -11,6 +11,7 @@ module.exports = {
     "rules": {
         "allow-parens": 0,
         "indent": [1, 4, {"SwitchCase": 1}],
-        "compat/compat": "error"
+        "compat/compat": "error",
+        "object-curly-spacing": "always"
     }
 };
